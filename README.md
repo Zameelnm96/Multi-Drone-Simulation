@@ -12,7 +12,7 @@ I have added 3 drones here each drone is devided the areas between them and assi
 ![](images/drone_aproach_sensor_clear.gif)
 
 ## This how drone read messeges from sensor nodes
-![](images/animation.gif)
+![](images/reding_from_sensor1.gif)
 
 #### to setup in the debian/ubuntu  environment following must be followed.
 * Gazebo(recomended Gazebo9 or later )
